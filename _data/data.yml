@@ -17,10 +17,12 @@ sidebar:
     phone: 708 802 4274 
     timezone: America/Central # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://georgetheprogrammer01.github.io/resumeCV/ # Include the full website URL, including "http://" or "https://".
-    linkedin: https://www.linkedin.com/in/george-flores-9287b01ab/
+    website: https://georgetheprogrammer01.github.io/ # Include the full website URL, including "http://" or "https://".
+    linkedin: https://www.linkedin.com/in/
+    george-flores-9287b01ab/
     xing: 
-    github: https://github.com/GeorgeTheProgrammer01
+    github: https://github.com/
+    GeorgeTheProgrammer01
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -37,41 +39,34 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Fishing
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+        - item: Football
+          link:        
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary: |     
+      Junior Full Stack Developer with 2 years of experience at 
+      Tranzact Technologies Inc., specializing in building responsive 
+      web interfaces and optimizing backend operations using technologies
+      like JavaScript, CSS, ASP.NET, and SQL. Adept at solving 
+      complex problems, enhancing user experiences, and streamlining 
+      application performance. Collaborative and detail-oriented, eager 
+      to contribute technical expertise to innovative and impactful 
+      projects. You can [download this free resume/CV template here]().
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BS in Cyber Security
+        university: Elmhurst University
+        time: 2022 - 2024
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,9 +75,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: AS in Science
+        university: Triton College
+        time: 2019 - 2022
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -95,9 +90,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Jr. Developer
+        time: July 2022 - May 2024
+        company: Tranzact Technologies
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -108,31 +103,12 @@ experiences:
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
+            - Bullet point: 
+            ⬧  Developed and maintained full-stack web applications using ASP.NET,
+             C#, SQL, and JavaScript to support over 500+ users, ensuring performance and scalability.
             - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+            Test
+      
 certifications:
       title: Certifications
       list:
@@ -181,9 +157,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Botanical Grave
+        link: "#https://v3.globalgamejam.org/2022/games/botanical-grave-4"
+        tagline: "Game made using C# in Unreal Engine."
 
       - title: DevStudio
         link: "#"
