@@ -102,7 +102,7 @@ projects:
     assignments:
       - title: Botanical Grave
         link: https://v3.globalgamejam.org/2022/games/botanical-grave-4
-        tagline: "Game made using C# in Unreal Engine."
+        tagline: "Participated in Global Game Jam. Video game created in under 72hrs using C# in Unreal Engine"
     
 
 
@@ -111,23 +111,21 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C# & C++
+       
 
       - name: Javascript & jQuery
-        level: 98%
+       
 
-      - name: Angular
-        level: 98%
+      - name: SQL
+        
 
       - name: HTML5 & CSS
-        level: 95%
+        
 
-      - name: Ruby on Rails
+      - name: Java
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
