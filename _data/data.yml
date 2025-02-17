@@ -101,7 +101,7 @@ projects:
         tagline: "Participated in Global Game Jam. Video game created in under 72hrs using C# in Unreal Engine"
     projects:
     - title: Pet Finder 
-        link: https://georgetheprogrammer01.github.io/PetFinder/
+        link: https://georgetheprogrammer01.github.io/PetFinder
         tagline: "Website developed using Blazor to help find pets available for adoption!"
     
 
