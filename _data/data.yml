@@ -56,7 +56,7 @@ career-profile:
     summary: |     
       Hello! I'm George, a passionate technology enthusiast with a Bachelor of Science in Cybersecurity and experience as both a programmer and technician. 
       I am always eager to learn, grow, and refine my skills while contributing to innovative solutions.
-      **<u>For a more detailed and accurate resume please [download here](assets/George Flores Resume.pdf).</u>**
+      For a more detailed and accurate resume please [download here](assets/George Flores Resume.pdf).
 education:
     title: Education
     info:
@@ -92,14 +92,15 @@ experiences:
       
 
 projects:
-    title: Pet Finder 
-    link:  https://georgetheprogrammer01.github.io/PetFinder
-    intro: "Website developed using Blazor to help find pets available for adoption!"
+    title: Projects!
     assignments:
       - title: Botanical Grave
         link: https://v3.globalgamejam.org/2022/games/botanical-grave-4
         tagline: "Participated in Global Game Jam. Video game created in under 72hrs using C# in Unreal Engine"
- 
+    assignments:
+      - title: Pet Finder
+        link: https://georgetheprogrammer01.github.io/PetFinder/
+        tagline: "Demo website developed in Blazor to help find available pets for adoption!"
     
 
 
