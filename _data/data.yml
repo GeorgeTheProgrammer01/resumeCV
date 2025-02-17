@@ -79,16 +79,15 @@ education:
 experiences:
     title: Experiences
     info:
-    role: PC Technician
-    time: 2024 
-    company: Addison School District 4
-    details: |
-    -  Provided IT support, delivering technical assistance and hardware troubleshooting to staff and students, ensuring minimal downtime and smooth daily operations.
-    -  Maintained network infrastructure, performing patching, repairs, and troubleshooting to ensure secure and reliable connectivity.
-    -  Managed Active Directory accounts, handling user creation, modifications, and password resets to maintain secure access control.
-    -  Managed user accounts through Google Admin and Microsoft Configuration Manager, handling permissions adjustments and policy enforcement.
-    -  Performed system imaging and repairs, including Windows re-imaging, hardware diagnostics, and basic repairs.
-
+      - role: PC Technician
+        time: 2024 
+        company: Addison School District 4
+        details: |
+         -  Provided IT support, delivering technical assistance and hardware troubleshooting to staff and students, ensuring minimal downtime and smooth daily operations.
+         -  Maintained network infrastructure, performing patching, repairs, and troubleshooting to ensure secure and reliable connectivity.
+         -  Managed Active Directory accounts, handling user creation, modifications, and password resets to maintain secure access control.
+          -  Managed user accounts through Google Admin and Microsoft Configuration Manager, handling permissions adjustments and policy enforcement.
+         -  Performed system imaging and repairs, including Windows re-imaging, hardware diagnostics, and basic repairs.
     
       - role: Jr. Developer
         time: July 2022 - May 2024
