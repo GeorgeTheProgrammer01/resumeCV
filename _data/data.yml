@@ -92,17 +92,14 @@ experiences:
       
 
 projects:
-    title: Projects
-    intro: >
-      Fun Projects! 
+    title: Pet Finder 
+    link:  https://georgetheprogrammer01.github.io/PetFinder
+    intro: "Website developed using Blazor to help find pets available for adoption!"
     assignments:
       - title: Botanical Grave
         link: https://v3.globalgamejam.org/2022/games/botanical-grave-4
         tagline: "Participated in Global Game Jam. Video game created in under 72hrs using C# in Unreal Engine"
-    projects:
-    - title: Pet Finder 
-        link: https://georgetheprogrammer01.github.io/PetFinder
-        tagline: "Website developed using Blazor to help find pets available for adoption!"
+ 
     
 
 
