@@ -54,14 +54,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |     
-      Junior Full Stack Developer with 2 years of experience at 
-      Tranzact Technologies Inc., specializing in building responsive 
-      web interfaces and optimizing backend operations using technologies
-      like JavaScript, CSS, ASP.NET, and SQL. Adept at solving 
-      complex problems, enhancing user experiences, and streamlining 
-      application performance. Collaborative and detail-oriented, eager 
-      to contribute technical expertise to innovative and impactful 
-      projects. For a more detailed, accurate resume [download here](assets/George Flores Resume.pdf).
+      Hello! I'm George, a passionate technology enthusiast with a Bachelor of Science in Cybersecurity and experience as both a programmer and technician. 
+      I am always eager to learn, grow, and refine my skills while contributing to innovative solutions.
+      **<u>For a more detailed and accurate resume please [download here](assets/George Flores Resume.pdf).</u>**
 education:
     title: Education
     info:
@@ -104,6 +99,10 @@ projects:
       - title: Botanical Grave
         link: https://v3.globalgamejam.org/2022/games/botanical-grave-4
         tagline: "Participated in Global Game Jam. Video game created in under 72hrs using C# in Unreal Engine"
+    projects:
+    - title: Pet Finder 
+        link: https://georgetheprogrammer01.github.io/PetFinder/
+        tagline: "Website developed using Blazor to help find pets available for adoption!"
     
 
 
